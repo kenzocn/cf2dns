@@ -7,7 +7,7 @@
 #### 演示图片    
  ![cf2dns.jpg](https://raw.githubusercontent.com/gacjie/cf2dns/main/cf2dns.jpg)   
         
-#### 公告通知   
+#### 公告通知  
 出于运维成本、长久稳定性等情况考虑。    
 目前平台域名更换为WeTest.vip。    
 请各位用户及时将插件更新到1.9版本以上。     
